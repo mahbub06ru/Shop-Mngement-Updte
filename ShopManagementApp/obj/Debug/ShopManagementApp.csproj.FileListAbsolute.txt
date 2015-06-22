@@ -1,0 +1,21 @@
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\bin\Debug\ShopManagementApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\bin\Debug\ShopManagementApp.exe
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\bin\Debug\ShopManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.UI.ProductEntryUI.resources
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.MenuUI.resources
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.exe
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.UI.TransactionUI.resources
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\bin\Debug\ShopManagementApp.exe.config
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.exe
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.pdb
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\bin\Debug\ShopManagementApp.exe
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\bin\Debug\ShopManagementApp.pdb
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.Properties.Resources.resources
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.UI.ProductEntryUI.resources
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.MenuUI.resources
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.UI.TransactionUI.resources
+I:\Practices\Goup Project\ShopManagementApp\ShopManagementApp\obj\Debug\ShopManagementApp.csproj.GenerateResource.Cache
